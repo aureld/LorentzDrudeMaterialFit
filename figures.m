@@ -1,5 +1,5 @@
  
-path = 'C:\Users\aduval\Documents\customer_support\2015\03\Mohamed Swillam';
+path = '.';
 filename = 'Silver_Johnson';
 extension = '.txt';
 data = load(fullfile(path,[filename extension]));
