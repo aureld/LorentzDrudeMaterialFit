@@ -32,7 +32,7 @@ public class Test
         Boolean nk = true; //is the file in (n,k) form? if not, (real(eps),imag(eps)) is assumed 
         string separator = " "; //column separator
         FDTDutils.units units = FDTDutils.units.um; //wavelength units of the input file 
-        string folder = @"C:\Users\aduval\Documents\customer_support\2015\03\Mohamed Swillam\";
+        string folder = @".";
         string matname = "Silver_Johnson";
         string extension = ".txt";
 
